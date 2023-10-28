@@ -29,3 +29,10 @@ When new media sends, we fetch a preview of media from MessageRepository. When m
 when application is paused, we add divider of current date, deactivate reading of new messages and add it in a new list of unread messages. If user resumes app, we read new messages in a list, otherwise messages remain unread
 
 ## Presentation 
++ get messege
+  
+![get_message](https://github.com/MobyteDev/chat-demo/assets/47796424/8e2bae8e-35c3-4d8c-83e1-5c26537e525d)
+
++ update status
+
+![get_status](https://github.com/MobyteDev/chat-demo/assets/47796424/e5097d40-e8b3-485d-8641-4db37f81c5fb)
