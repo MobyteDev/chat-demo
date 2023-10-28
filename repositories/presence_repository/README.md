@@ -12,3 +12,4 @@ The repository is responsible for providing streams of users presence streams. W
 ## Presentation 
 + Change of status
 
+![change_status](https://github.com/MobyteDev/chat-demo/assets/47796424/9dc9c3de-2954-4b51-a747-a3391c88def2)
