@@ -9,3 +9,5 @@ To connect riverpod and bloc we get entity from riverpod and update it, when com
 ## Presentation 
 + Chat page
 
+<img width="245" alt="image" src="https://github.com/MobyteDev/chat-demo/assets/47796424/3b95af79-e050-4a22-9305-6990d104b6ce">
+
