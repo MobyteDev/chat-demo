@@ -15,6 +15,8 @@ when started, it count down a timer and check local time difference with ntp ser
 ## Presentation 
 + enter in call
 
-+ example of session
+![enter_call](https://github.com/MobyteDev/chat-demo/assets/47796424/c5f0d28e-7e3a-4708-b888-80a341baab1c)
 
 + ending session
+  
+![end_call](https://github.com/MobyteDev/chat-demo/assets/47796424/5c66f285-eb85-4500-8889-c14ff1a8b83c)
